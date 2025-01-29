@@ -1,0 +1,14 @@
+[
+  {
+    "sha": "67f6fd2e3bb7d0ce6b28d111a0302817af979a7d",
+    "filename": "README.md",
+    "status": "modified",
+    "additions": 1,
+    "deletions": 0,
+    "changes": 1,
+    "blob_url": "https://github.com/lukaszgryglicki/co-authors-test/blob/33c0942c95f4e036aacc53a73b1695827221c61c/README.md",
+    "raw_url": "https://github.com/lukaszgryglicki/co-authors-test/raw/33c0942c95f4e036aacc53a73b1695827221c61c/README.md",
+    "contents_url": "https://api.github.com/repos/lukaszgryglicki/co-authors-test/contents/README.md?ref=33c0942c95f4e036aacc53a73b1695827221c61c",
+    "patch": "@@ -9,6 +9,7 @@ To correctly identify GitHub co-author add the following git commit message trai\n \n It will not work for:\n 1) `` Co-authored-by: Anything <email> `` (where `email` is not somebody's public GitHub email).\n+1) `` Co-authored-by: Anything <email> `` (where `email` is somebody's private GitHub email).\n \n \n It will not work as expected:"
+  }
+]

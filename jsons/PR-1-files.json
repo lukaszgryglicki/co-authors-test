@@ -1,0 +1,14 @@
+[
+  {
+    "sha": "0dc471e137581e27e55632c97eb98dae3c191894",
+    "filename": "AUTHORS",
+    "status": "added",
+    "additions": 2,
+    "deletions": 0,
+    "changes": 2,
+    "blob_url": "https://github.com/lukaszgryglicki/co-authors-test/blob/faaba1643cda567936d3c4856e292a42c59764b2/AUTHORS",
+    "raw_url": "https://github.com/lukaszgryglicki/co-authors-test/raw/faaba1643cda567936d3c4856e292a42c59764b2/AUTHORS",
+    "contents_url": "https://api.github.com/repos/lukaszgryglicki/co-authors-test/contents/AUTHORS?ref=faaba1643cda567936d3c4856e292a42c59764b2",
+    "patch": "@@ -0,0 +1,2 @@\n+lukaszgryglicki\n+justynagryglicka"
+  }
+]

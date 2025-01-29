@@ -1,0 +1,14 @@
+[
+  {
+    "sha": "b43fed0ffb592d078dc13aff5ac5acf8235065ae",
+    "filename": "README.md",
+    "status": "modified",
+    "additions": 1,
+    "deletions": 1,
+    "changes": 2,
+    "blob_url": "https://github.com/lukaszgryglicki/co-authors-test/blob/d44ceaada07f307cad6f7971d212a1d8aa04275c/README.md",
+    "raw_url": "https://github.com/lukaszgryglicki/co-authors-test/raw/d44ceaada07f307cad6f7971d212a1d8aa04275c/README.md",
+    "contents_url": "https://api.github.com/repos/lukaszgryglicki/co-authors-test/contents/README.md?ref=d44ceaada07f307cad6f7971d212a1d8aa04275c",
+    "patch": "@@ -2,7 +2,7 @@\n \n To correctly identify GitHub co-author add the following git commit message trailer via `` git commit --amend ``:\n \n-1) `` Co-authored-by: Anything <public-email> `` (where `public-email` is somebody's GitHub public email).\n+1) `` Co-authored-by: Anything <public-email> `` (where `public-email` is somebody's GitHub public email - primary or any other).\n 2) `` Co-authored-by: Anything <username@users.noreply.github.com> `` (where `username` is a correct GitHub user name).\n 2) `` Co-authored-by: Anything <ID+username@users.noreply.github.com> `` (where `username` is a correct GitHub user name and `ID` is a correct GitHub ID).\n "
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "sha": "7e59245cca639737a3ed7640346732435bf02b7b",
+    "filename": "README.md",
+    "status": "modified",
+    "additions": 3,
+    "deletions": 2,
+    "changes": 5,
+    "blob_url": "https://github.com/lukaszgryglicki/co-authors-test/blob/7790091ffbc6f8008987f530fba5401c54018a87/README.md",
+    "raw_url": "https://github.com/lukaszgryglicki/co-authors-test/raw/7790091ffbc6f8008987f530fba5401c54018a87/README.md",
+    "contents_url": "https://api.github.com/repos/lukaszgryglicki/co-authors-test/contents/README.md?ref=7790091ffbc6f8008987f530fba5401c54018a87",
+    "patch": "@@ -4,12 +4,13 @@ To correctly identify GitHub co-author add the following git commit message trai\n \n 1) `` Co-authored-by: Anything <email> `` (where `email` is somebody's GitHub email - primary or any other).\n 2) `` Co-authored-by: Anything <username@users.noreply.github.com> `` (where `username` is a correct GitHub user name).\n-2) `` Co-authored-by: Anything <ID+username@users.noreply.github.com> `` (where `username` is a correct GitHub user name and `ID` is a correct GitHub ID).\n+3) `` Co-authored-by: Anything <ID+username@users.noreply.github.com> `` (where `username` is a correct GitHub user name and `ID` is a correct GitHub ID).\n+4) Multiple correct co-authored-by trailers will create more authors - if some trailers point to the same user GitHub will figure this out\n \n \n It will not work for:\n 1) `` Co-authored-by: Anything <email> `` (where `email` is not somebody's GitHub email). Contribution will show as `Anything` on GitHub without link to a GitHub profile.\n \n \n It will not work as expected:\n-2) `` Co-authored-by: Anything <ID+username@users.noreply.github.com> `` (if `ID` is correct it will be used to identify GitHub user even if `username` does not belong to ID's GitHub profile - `ID` will have precedence and `username` will be ignored).\n+1) `` Co-authored-by: Anything <ID+username@users.noreply.github.com> `` (if `ID` is correct it will be used to identify GitHub user even if `username` does not belong to ID's GitHub profile - `ID` will have precedence and `username` will be ignored)."
+  }
+]

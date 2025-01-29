@@ -1,0 +1,84 @@
+[
+  {
+    "sha": "2ba99d120ca6a310807f9a6487db2fe5ad8196ca",
+    "node_id": "C_kwDONxKQqdoAKDJiYTk5ZDEyMGNhNmEzMTA4MDdmOWE2NDg3ZGIyZmU1YWQ4MTk2Y2E",
+    "commit": {
+      "author": {
+        "name": "Łukasz Gryglicki",
+        "email": "lgryglicki@cncf.io",
+        "date": "2025-01-29T06:50:16Z"
+      },
+      "committer": {
+        "name": "Łukasz Gryglicki",
+        "email": "lgryglicki@cncf.io",
+        "date": "2025-01-29T06:50:20Z"
+      },
+      "message": "Add co-author 2\n\nSigned-off-by: Łukasz Gryglicki <lgryglicki@cncf.io>\nCo-authored-by: Justa <justynagryglicka@users.noreply.github.com>",
+      "tree": {
+        "sha": "fac8a3aa6ebf1cbd504a9f4d17ac7815d9bd9ab0",
+        "url": "https://api.github.com/repos/lukaszgryglicki/co-authors-test/git/trees/fac8a3aa6ebf1cbd504a9f4d17ac7815d9bd9ab0"
+      },
+      "url": "https://api.github.com/repos/lukaszgryglicki/co-authors-test/git/commits/2ba99d120ca6a310807f9a6487db2fe5ad8196ca",
+      "comment_count": 0,
+      "verification": {
+        "verified": false,
+        "reason": "unsigned",
+        "signature": null,
+        "payload": null,
+        "verified_at": null
+      }
+    },
+    "url": "https://api.github.com/repos/lukaszgryglicki/co-authors-test/commits/2ba99d120ca6a310807f9a6487db2fe5ad8196ca",
+    "html_url": "https://github.com/lukaszgryglicki/co-authors-test/commit/2ba99d120ca6a310807f9a6487db2fe5ad8196ca",
+    "comments_url": "https://api.github.com/repos/lukaszgryglicki/co-authors-test/commits/2ba99d120ca6a310807f9a6487db2fe5ad8196ca/comments",
+    "author": {
+      "login": "lukaszgryglicki",
+      "id": 2469783,
+      "node_id": "MDQ6VXNlcjI0Njk3ODM=",
+      "avatar_url": "https://avatars.githubusercontent.com/u/2469783?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/lukaszgryglicki",
+      "html_url": "https://github.com/lukaszgryglicki",
+      "followers_url": "https://api.github.com/users/lukaszgryglicki/followers",
+      "following_url": "https://api.github.com/users/lukaszgryglicki/following{/other_user}",
+      "gists_url": "https://api.github.com/users/lukaszgryglicki/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/lukaszgryglicki/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/lukaszgryglicki/subscriptions",
+      "organizations_url": "https://api.github.com/users/lukaszgryglicki/orgs",
+      "repos_url": "https://api.github.com/users/lukaszgryglicki/repos",
+      "events_url": "https://api.github.com/users/lukaszgryglicki/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/lukaszgryglicki/received_events",
+      "type": "User",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "lukaszgryglicki",
+      "id": 2469783,
+      "node_id": "MDQ6VXNlcjI0Njk3ODM=",
+      "avatar_url": "https://avatars.githubusercontent.com/u/2469783?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/lukaszgryglicki",
+      "html_url": "https://github.com/lukaszgryglicki",
+      "followers_url": "https://api.github.com/users/lukaszgryglicki/followers",
+      "following_url": "https://api.github.com/users/lukaszgryglicki/following{/other_user}",
+      "gists_url": "https://api.github.com/users/lukaszgryglicki/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/lukaszgryglicki/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/lukaszgryglicki/subscriptions",
+      "organizations_url": "https://api.github.com/users/lukaszgryglicki/orgs",
+      "repos_url": "https://api.github.com/users/lukaszgryglicki/repos",
+      "events_url": "https://api.github.com/users/lukaszgryglicki/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/lukaszgryglicki/received_events",
+      "type": "User",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "dcdc63630f52fdae87b7e53fb41a56f1f2a0ddc0",
+        "url": "https://api.github.com/repos/lukaszgryglicki/co-authors-test/commits/dcdc63630f52fdae87b7e53fb41a56f1f2a0ddc0",
+        "html_url": "https://github.com/lukaszgryglicki/co-authors-test/commit/dcdc63630f52fdae87b7e53fb41a56f1f2a0ddc0"
+      }
+    ]
+  }
+]

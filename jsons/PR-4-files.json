@@ -1,0 +1,14 @@
+[
+  {
+    "sha": "e4fe72caae917539b9599e508e4759c93f080e76",
+    "filename": "AUTHORS",
+    "status": "modified",
+    "additions": 1,
+    "deletions": 0,
+    "changes": 1,
+    "blob_url": "https://github.com/lukaszgryglicki/co-authors-test/blob/7573e51ff40ae402ce3a3a847e7501f921bf4680/AUTHORS",
+    "raw_url": "https://github.com/lukaszgryglicki/co-authors-test/raw/7573e51ff40ae402ce3a3a847e7501f921bf4680/AUTHORS",
+    "contents_url": "https://api.github.com/repos/lukaszgryglicki/co-authors-test/contents/AUTHORS?ref=7573e51ff40ae402ce3a3a847e7501f921bf4680",
+    "patch": "@@ -1,2 +1,3 @@\n lukaszgryglicki\n justynagryglicka\n+justacakala"
+  }
+]
