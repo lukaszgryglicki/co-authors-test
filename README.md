@@ -5,7 +5,7 @@ To correctly identify GitHub co-author add the following git commit message trai
 1) `` Co-authored-by: Anything <email> `` (where `email` is somebody's GitHub email - primary or any other).
 2) `` Co-authored-by: Anything <username@users.noreply.github.com> `` (where `username` is a correct GitHub user name).
 3) `` Co-authored-by: Anything <ID+username@users.noreply.github.com> `` (where `username` is a correct GitHub user name and `ID` is a correct GitHub ID).
-4) Multiple correct co-authored-by trailers will create more authors - if some trailers point to the same user GitHub will figure this out
+4) Multiple correct co-authored-by trailers will create more authors - if some trailers point to the same user GitHub will figure this out.
 
 
 It will not work for:
