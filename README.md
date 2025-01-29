@@ -9,6 +9,7 @@ To correctly identify GitHub co-author add the following git commit message trai
 
 It will not work for:
 1) `` Co-authored-by: Anything <email> `` (where `email` is not somebody's public GitHub email).
+1) `` Co-authored-by: Anything <email> `` (where `email` is somebody's private GitHub email).
 
 
 It will not work as expected:
